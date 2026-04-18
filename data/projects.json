@@ -1,0 +1,1232 @@
+{
+  "source_scope": {
+    "downloads_date": "2026-04-18",
+    "notes": "Portfolio rebuilt from the supplied April 18, 2026 C8676 temporary-works PDFs together with the supplied professional and academic source bundles. Older files such as C9211 were intentionally excluded after clarification."
+  },
+  "projects": [
+    {
+      "id": "c8676",
+      "slug": "temporary-works-c8676",
+      "title": "Temporary Works Packages for Site Accommodation",
+      "subtitle": "Cabin bases, Heras fencing and scaffold mat checks",
+      "category": "Professional",
+      "discipline": "Temporary Works",
+      "work_stream": "Professional Work",
+      "reference": "C8676",
+      "authorship": "Professional issue packs",
+      "source_batch": "Direct PDF set",
+      "tags": [
+        "Professional",
+        "Temporary Works",
+        "Foundations",
+        "Wind Loading"
+      ],
+      "summary": "Temporary works calculation packs covering stacked site cabin bases, Heras fencing, and scaffold mat design for site accommodation.",
+      "role": "Preparation of temporary works calculations covering load assessment, wind actions, bearing checks, and supporting technical sketches.",
+      "scope": [
+        "Cabin base checks using supplier information and bearing arrangements.",
+        "Temporary fencing stability checks under wind loading.",
+        "Scaffold sole board and mat support checks for temporary works loading."
+      ],
+      "deliverables": [
+        "Issued calculation packs for cabin bases, fencing, and scaffold support arrangements.",
+        "Wind loading, bearing, and temporary works design checks.",
+        "Supporting preview pages and direct access to the full document set."
+      ],
+      "thumbnail": "images/thumbnails/temporary-works-c8676-thumb.jpg",
+      "previews": [
+        {
+          "src": "images/previews/temporary-works-c8676-preview-1.jpg",
+          "caption": "Cabin-base package cover sheet."
+        },
+        {
+          "src": "images/previews/temporary-works-c8676-preview-2.jpg",
+          "caption": "Representative calculation page from the cabin-base package."
+        },
+        {
+          "src": "images/previews/temporary-works-c8676-preview-3.jpg",
+          "caption": "Heras fencing package cover sheet."
+        },
+        {
+          "src": "images/previews/temporary-works-c8676-preview-4.jpg",
+          "caption": "Scaffold mat package cover sheet."
+        }
+      ],
+      "documents": [
+        {
+          "key": "cabin-bases",
+          "label": "Calculations 01-09",
+          "summary": "Cabin-base calculation pack for stacked site accommodation foundations.",
+          "file_name": "C8676 - Calculations 01 - 09 inc.pdf",
+          "url": "pdfs/source/C8676%20-%20Calculations%2001%20-%2009%20inc.pdf",
+          "page_count": 10,
+          "source_origin": "Downloads",
+          "aliases": [
+            {
+              "name": "C8676 - Calculations 01 - 09 inc (1).pdf",
+              "url": "pdfs/source/C8676%20-%20Calculations%2001%20-%2009%20inc%20(1).pdf"
+            }
+          ]
+        },
+        {
+          "key": "heras-fencing",
+          "label": "Calculations H01-H05",
+          "summary": "Temporary fencing calculation pack covering stability under wind loading.",
+          "file_name": "C8676 Calculations - H01-H05 inc.pdf",
+          "url": "pdfs/source/C8676%20Calculations%20-%20H01-H05%20inc.pdf",
+          "page_count": 6,
+          "source_origin": "Downloads",
+          "aliases": []
+        },
+        {
+          "key": "scaffold-mat",
+          "label": "Calculations S01-S02",
+          "summary": "Scaffold mat and sole-board support calculations for temporary works loading.",
+          "file_name": "c8676 Calculations S01 - S02 inc.pdf",
+          "url": "pdfs/source/c8676%20Calculations%20S01%20-%20S02%20inc.pdf",
+          "page_count": 3,
+          "source_origin": "Downloads",
+          "aliases": []
+        }
+      ],
+      "file_total": 4
+    },
+    {
+      "id": "c8765",
+      "slug": "classroom-foundation-design-c8765",
+      "title": "Classroom Foundation Design",
+      "subtitle": "Salisbury Road Primary School, Plymouth",
+      "category": "Professional",
+      "discipline": "Foundations",
+      "work_stream": "Professional Work",
+      "reference": "C8765",
+      "authorship": "Professional calculation pack and supporting sheets",
+      "source_batch": "attachments.zip",
+      "tags": [
+        "Professional",
+        "Foundations",
+        "Education",
+        "Timber"
+      ],
+      "summary": "Foundation design package for a timber-frame classroom building at Salisbury Road Primary School, supported by calculation sheets and associated drawing information.",
+      "role": "Preparation of the structural calculations and supporting technical sheets for the classroom foundation arrangement.",
+      "scope": [
+        "Foundation design for a timber-frame classroom building.",
+        "Bearing and foundation strategy development informed by site investigation information.",
+        "Supporting technical sheets and drawings issued alongside the calculation pack."
+      ],
+      "deliverables": [
+        "Main calculation pack covering the classroom foundation design.",
+        "Supporting drawing sheets issued with the calculation package.",
+        "Preview pages and direct access to the full document set."
+      ],
+      "thumbnail": "images/thumbnails/classroom-foundation-design-c8765-thumb.jpg",
+      "previews": [
+        {
+          "src": "images/previews/classroom-foundation-design-c8765-preview-1.jpg",
+          "caption": "Project data sheet for the classroom foundation package."
+        },
+        {
+          "src": "images/previews/classroom-foundation-design-c8765-preview-2.jpg",
+          "caption": "Representative internal page from the foundation calculations."
+        },
+        {
+          "src": "images/previews/classroom-foundation-design-c8765-preview-3.jpg",
+          "caption": "Supporting drawing sheet from the package."
+        }
+      ],
+      "documents": [
+        {
+          "key": "calc-pack",
+          "label": "Calculations 01-24",
+          "summary": "Main calculation pack for the classroom foundation design.",
+          "file_name": "C8765. Calculations 01 - 24 inc.pdf",
+          "url": "pdfs/source/C8765.%20Calculations%2001%20-%2024%20inc.pdf",
+          "page_count": 25,
+          "source_origin": "attachments.zip",
+          "aliases": []
+        },
+        {
+          "key": "sheet-01",
+          "label": "Sheet 01",
+          "summary": "Supporting drawing sheet issued with the classroom foundation package.",
+          "file_name": "C8765-01.pdf",
+          "url": "pdfs/source/C8765-01.pdf",
+          "page_count": 1,
+          "source_origin": "attachments.zip",
+          "aliases": []
+        },
+        {
+          "key": "sheet-02",
+          "label": "Sheet 02",
+          "summary": "Supporting drawing sheet issued with the classroom foundation package.",
+          "file_name": "C8765-02.pdf",
+          "url": "pdfs/source/C8765-02.pdf",
+          "page_count": 1,
+          "source_origin": "attachments.zip",
+          "aliases": []
+        },
+        {
+          "key": "sheet-03",
+          "label": "Sheet 03",
+          "summary": "Supporting drawing sheet issued with the classroom foundation package.",
+          "file_name": "C8765-03.pdf",
+          "url": "pdfs/source/C8765-03.pdf",
+          "page_count": 1,
+          "source_origin": "attachments.zip",
+          "aliases": []
+        }
+      ],
+      "file_total": 4
+    },
+    {
+      "id": "c8611",
+      "slug": "school-extension-foundation-design-c8611",
+      "title": "School Extension Foundation Design",
+      "subtitle": "Diptford Primary School",
+      "category": "Professional",
+      "discipline": "Foundations",
+      "work_stream": "Professional Work",
+      "reference": "C8611",
+      "authorship": "Professional calculation pack",
+      "source_batch": "attachments.zip",
+      "tags": [
+        "Professional",
+        "Foundations",
+        "Education"
+      ],
+      "summary": "Foundation design package for a classroom extension at Diptford Primary School, using a reinforced beam and piles solution.",
+      "role": "Preparation of the structural calculation package for the extension foundation design.",
+      "scope": [
+        "Foundation design for a school extension classroom.",
+        "Beam-and-piles foundation strategy supported by site investigation information.",
+        "Technical calculation sheets issued for authority and project review."
+      ],
+      "deliverables": [
+        "Foundation calculation pack for the extension works.",
+        "Supporting design information for the selected beam-and-piles approach.",
+        "Preview pages and full in-browser access to the document."
+      ],
+      "thumbnail": "images/thumbnails/school-extension-foundation-design-c8611-thumb.jpg",
+      "previews": [
+        {
+          "src": "images/previews/school-extension-foundation-design-c8611-preview-1.jpg",
+          "caption": "Project data sheet for the school extension foundation design."
+        },
+        {
+          "src": "images/previews/school-extension-foundation-design-c8611-preview-2.jpg",
+          "caption": "Representative internal calculation page."
+        },
+        {
+          "src": "images/previews/school-extension-foundation-design-c8611-preview-3.jpg",
+          "caption": "Additional calculation content from the foundation package."
+        }
+      ],
+      "documents": [
+        {
+          "key": "calc-pack",
+          "label": "Calculations 01-14",
+          "summary": "Foundation design calculation pack for the Diptford Primary School extension.",
+          "file_name": "C8611. Calculations - 01 - 14 inc_compressed.pdf",
+          "url": "pdfs/source/C8611.%20Calculations%20-%2001%20-%2014%20inc_compressed.pdf",
+          "page_count": 15,
+          "source_origin": "attachments.zip",
+          "aliases": []
+        }
+      ],
+      "file_total": 1
+    },
+    {
+      "id": "c8030",
+      "slug": "flat-roof-installation-c8030",
+      "title": "Flat Roof Installation and Alterations",
+      "subtitle": "Manor Corner, Paignton",
+      "category": "Professional",
+      "discipline": "Roof Structures",
+      "work_stream": "Professional Work",
+      "reference": "C8030",
+      "authorship": "Professional proposal set",
+      "source_batch": "attachments (1).zip",
+      "tags": [
+        "Professional",
+        "Commercial",
+        "Roof Structures",
+        "Timber",
+        "Steelwork"
+      ],
+      "summary": "Proposal package for structural alterations and the installation of a new flat roof to an existing commercial building at Manor Corner, Paignton.",
+      "role": "Preparation of the proposal set covering the roof alterations, structural support strategy, and technical presentation of the scheme.",
+      "scope": [
+        "New flat-roof installation to an existing commercial building.",
+        "Use of timber, steel, and proprietary joist components within the altered roof structure.",
+        "Proposal sheets issued to communicate the structural approach."
+      ],
+      "deliverables": [
+        "Proposal set covering the altered roof structure.",
+        "Supporting structural information for timber and steel roof elements.",
+        "Preview pages and direct access to the full proposal package."
+      ],
+      "thumbnail": "images/thumbnails/flat-roof-installation-c8030-thumb.jpg",
+      "previews": [
+        {
+          "src": "images/previews/flat-roof-installation-c8030-preview-1.jpg",
+          "caption": "Project data sheet for the Manor Corner proposal set."
+        },
+        {
+          "src": "images/previews/flat-roof-installation-c8030-preview-2.jpg",
+          "caption": "Representative internal page from the roof proposal package."
+        },
+        {
+          "src": "images/previews/flat-roof-installation-c8030-preview-3.jpg",
+          "caption": "Additional proposal sheet from the document set."
+        }
+      ],
+      "documents": [
+        {
+          "key": "proposal-pack",
+          "label": "Proposals R01-R22",
+          "summary": "Proposal set for the new flat-roof installation at Manor Corner.",
+          "file_name": "C8030. Proposals R01 - R22 inc_compressed.pdf",
+          "url": "pdfs/source/C8030.%20Proposals%20R01%20-%20R22%20inc_compressed.pdf",
+          "page_count": 23,
+          "source_origin": "attachments (1).zip",
+          "aliases": []
+        }
+      ],
+      "file_total": 1
+    },
+    {
+      "id": "c8839",
+      "slug": "internal-alterations-and-deck-design-c8839",
+      "title": "Internal Alterations and Deck Design",
+      "subtitle": "Mariners, Heath Road, Brixham",
+      "category": "Professional",
+      "discipline": "Structural Alterations",
+      "work_stream": "Professional Work",
+      "reference": "C8839",
+      "authorship": "Professional calculation pack",
+      "source_batch": "attachments (1).zip",
+      "tags": [
+        "Professional",
+        "Residential",
+        "Alterations",
+        "Steelwork",
+        "Timber"
+      ],
+      "summary": "Structural calculation package for residential internal alterations and deck design at Mariners, Heath Road, Brixham.",
+      "role": "Preparation of the structural calculations covering the alteration works and the deck design package.",
+      "scope": [
+        "Residential internal alterations and associated deck design.",
+        "Steel and timber structural checks within the altered arrangement.",
+        "Issued calculation sheets supporting the proposed works."
+      ],
+      "deliverables": [
+        "Main calculation pack for the alteration and deck design works.",
+        "Supporting structural checks and technical issue sheets.",
+        "Preview pages and direct access to the full package."
+      ],
+      "thumbnail": "images/thumbnails/internal-alterations-and-deck-design-c8839-thumb.jpg",
+      "previews": [
+        {
+          "src": "images/previews/internal-alterations-and-deck-design-c8839-preview-1.jpg",
+          "caption": "Project data sheet for the Mariners calculation package."
+        },
+        {
+          "src": "images/previews/internal-alterations-and-deck-design-c8839-preview-2.jpg",
+          "caption": "Representative internal page from the calculation pack."
+        },
+        {
+          "src": "images/previews/internal-alterations-and-deck-design-c8839-preview-3.jpg",
+          "caption": "Additional calculation content from the document set."
+        }
+      ],
+      "documents": [
+        {
+          "key": "calc-pack",
+          "label": "Calculations 01-51",
+          "summary": "Calculation pack for internal alterations and deck design at Mariners.",
+          "file_name": "C8839. Calculation pack 01 - 51inc_compressed.pdf",
+          "url": "pdfs/source/C8839.%20Calculation%20pack%2001%20-%2051inc_compressed.pdf",
+          "page_count": 52,
+          "source_origin": "attachments (1).zip",
+          "aliases": []
+        }
+      ],
+      "file_total": 1
+    },
+    {
+      "id": "c8829",
+      "slug": "temporary-works-noss-on-dart-c8829",
+      "title": "Temporary Works Packages for Noss on Dart Marina",
+      "subtitle": "Piling platforms, scaffold systems, crane base and retaining wall",
+      "category": "Professional",
+      "discipline": "Temporary Works",
+      "work_stream": "Professional Work",
+      "reference": "C8829",
+      "authorship": "Professional temporary works packages",
+      "source_batch": "attachments (2).zip",
+      "tags": [
+        "Professional",
+        "Temporary Works",
+        "Foundations",
+        "Retaining Structures",
+        "Marine"
+      ],
+      "summary": "Coordinated temporary works packages for Noss on Dart Marina covering piling platforms, scaffold and falsework spreaders, a tower crane base, and a king post retaining wall.",
+      "role": "Preparation of multiple temporary works calculation packages across the marina development, covering platform design, scaffold support arrangements, crane base checks, and retaining wall design.",
+      "scope": [
+        "Granular working platforms for piling plant.",
+        "Scaffold and falsework spreaders for access and support arrangements.",
+        "Tower crane base and king post retaining wall packages within the wider temporary works set."
+      ],
+      "deliverables": [
+        "Seven temporary works document sets under the same project reference.",
+        "Packages covering platforms, spreaders, scaffold systems, crane base, and retaining wall design.",
+        "Preview pages and direct access to the full grouped document set."
+      ],
+      "thumbnail": "images/thumbnails/temporary-works-noss-on-dart-c8829-thumb.jpg",
+      "previews": [
+        {
+          "src": "images/previews/temporary-works-noss-on-dart-c8829-preview-1.jpg",
+          "caption": "Project data sheet for the GEAX EK60L piling-platform package."
+        },
+        {
+          "src": "images/previews/temporary-works-noss-on-dart-c8829-preview-2.jpg",
+          "caption": "Project data sheet for the Casagrande B175XP CFA platform package."
+        },
+        {
+          "src": "images/previews/temporary-works-noss-on-dart-c8829-preview-3.jpg",
+          "caption": "Project data sheet for the tower crane base package."
+        },
+        {
+          "src": "images/previews/temporary-works-noss-on-dart-c8829-preview-4.jpg",
+          "caption": "Project data sheet for the king post retaining wall package."
+        }
+      ],
+      "documents": [
+        {
+          "key": "g-pack",
+          "label": "Calculations G01-G32",
+          "summary": "Granular working-platform calculations for the GEAX EK60L piling rig.",
+          "file_name": "C8829 Calculations G01 - G32 inc.pdf",
+          "url": "pdfs/source/C8829%20Calculations%20G01%20-%20G32%20inc.pdf",
+          "page_count": 33,
+          "source_origin": "attachments (2).zip",
+          "aliases": []
+        },
+        {
+          "key": "p-pack",
+          "label": "Calculations P01-P32",
+          "summary": "Granular working-platform calculations for the Casagrande B175XP CFA piling rig.",
+          "file_name": "C8829. Calculations P01 - P32 inc_compressed.pdf",
+          "url": "pdfs/source/C8829.%20Calculations%20P01%20-%20P32%20inc_compressed.pdf",
+          "page_count": 33,
+          "source_origin": "attachments (2).zip",
+          "aliases": []
+        },
+        {
+          "key": "cp-pack",
+          "label": "CP1-CP5",
+          "summary": "Cantilevered platform scaffold calculations for roof-access support.",
+          "file_name": "C8829 CP1 - CP5 inc.pdf",
+          "url": "pdfs/source/C8829%20CP1%20-%20CP5%20inc.pdf",
+          "page_count": 6,
+          "source_origin": "attachments (2).zip",
+          "aliases": []
+        },
+        {
+          "key": "s-pack",
+          "label": "S01-S06",
+          "summary": "Prop spreader calculations for apartment-block falsework support to the undercroft.",
+          "file_name": "C8829. Calculations S01 - S06 incl..pdf",
+          "url": "pdfs/source/C8829.%20Calculations%20S01%20-%20S06%20incl..pdf",
+          "page_count": 7,
+          "source_origin": "attachments (2).zip",
+          "aliases": []
+        },
+        {
+          "key": "f-pack",
+          "label": "F01-F02",
+          "summary": "Foundation scaffold spreader package for bridged access scaffolding.",
+          "file_name": "C8829 Calculation packF01 - F02 inc.pdf",
+          "url": "pdfs/source/C8829%20Calculation%20packF01%20-%20F02%20inc.pdf",
+          "page_count": 3,
+          "source_origin": "attachments (2).zip",
+          "aliases": []
+        },
+        {
+          "key": "tc-pack",
+          "label": "TC01-TC08",
+          "summary": "Tower crane base calculations for the Comansa 16 LC 260 foundation.",
+          "file_name": "C8829. Calculations TC01-TC08 inc.pdf",
+          "url": "pdfs/source/C8829.%20Calculations%20TC01-TC08%20inc.pdf",
+          "page_count": 9,
+          "source_origin": "attachments (2).zip",
+          "aliases": []
+        },
+        {
+          "key": "k-pack",
+          "label": "K01-K14",
+          "summary": "King post retaining wall calculations for the eastern boundary.",
+          "file_name": "C8829. K01 - K14 inc Calculations_compressed.pdf",
+          "url": "pdfs/source/C8829.%20K01%20-%20K14%20inc%20Calculations_compressed.pdf",
+          "page_count": 15,
+          "source_origin": "attachments (2).zip",
+          "aliases": []
+        }
+      ],
+      "file_total": 7
+    },
+    {
+      "id": "c8758",
+      "slug": "commercial-alterations-c8758",
+      "title": "Commercial Alterations to Existing Building",
+      "subtitle": "Extension to Riviera Sports Bar, Torquay",
+      "category": "Professional",
+      "discipline": "Structural Alterations",
+      "work_stream": "Professional Work",
+      "reference": "C8758",
+      "authorship": "Professional calculation pack",
+      "source_batch": "attachments (3).zip",
+      "tags": [
+        "Professional",
+        "Commercial",
+        "Alterations",
+        "Steelwork",
+        "Timber"
+      ],
+      "summary": "Structural calculation package for alterations to the existing Riviera Sports Bar building in Torquay.",
+      "role": "Preparation of the structural calculations for the alteration works to the existing commercial building.",
+      "scope": [
+        "Structural alterations to an existing commercial building.",
+        "Use of steel, timber, and masonry elements within the proposed works.",
+        "Issued calculation sheets supporting the extension and alteration package."
+      ],
+      "deliverables": [
+        "Calculation pack covering the building alterations.",
+        "Supporting structural checks for the proposed works.",
+        "Preview pages and direct access to the full document set."
+      ],
+      "thumbnail": "images/thumbnails/commercial-alterations-c8758-thumb.jpg",
+      "previews": [
+        {
+          "src": "images/previews/commercial-alterations-c8758-preview-1.jpg",
+          "caption": "Project data sheet for the Riviera Sports Bar calculation package."
+        },
+        {
+          "src": "images/previews/commercial-alterations-c8758-preview-2.jpg",
+          "caption": "Representative internal page from the alteration package."
+        },
+        {
+          "src": "images/previews/commercial-alterations-c8758-preview-3.jpg",
+          "caption": "Additional calculation content from the document set."
+        }
+      ],
+      "documents": [
+        {
+          "key": "calc-pack",
+          "label": "Calculations 01-28",
+          "summary": "Calculation pack for the Riviera Sports Bar alteration works.",
+          "file_name": "C8758 Calculations_compressed.pdf",
+          "url": "pdfs/source/C8758%20Calculations_compressed.pdf",
+          "page_count": 29,
+          "source_origin": "attachments (3).zip",
+          "aliases": []
+        }
+      ],
+      "file_total": 1
+    },
+    {
+      "id": "c8707",
+      "slug": "merchants-loft-alterations-c8707",
+      "title": "Internal Alterations and Temporary Works Propping",
+      "subtitle": "The Merchants Loft, Pump Street, Brixham",
+      "category": "Professional",
+      "discipline": "Structural Alterations",
+      "work_stream": "Professional Work",
+      "reference": "C8707",
+      "authorship": "Professional calculation packs",
+      "source_batch": "attachments (3).zip",
+      "tags": [
+        "Professional",
+        "Residential",
+        "Alterations",
+        "Temporary Works"
+      ],
+      "summary": "Paired calculation packs for The Merchants Loft covering the permanent internal alterations and the temporary works propping required to support the works.",
+      "role": "Preparation of the structural calculations for the permanent alterations together with the temporary works propping package.",
+      "scope": [
+        "Permanent structural alterations to an existing residential building.",
+        "Temporary works propping to support the alteration sequence.",
+        "Issued calculation sheets covering both permanent and temporary conditions."
+      ],
+      "deliverables": [
+        "Main structural calculation pack for the alteration works.",
+        "Temporary works propping package issued under the same project reference.",
+        "Preview pages and direct access to the full document set."
+      ],
+      "thumbnail": "images/thumbnails/merchants-loft-alterations-c8707-thumb.jpg",
+      "previews": [
+        {
+          "src": "images/previews/merchants-loft-alterations-c8707-preview-1.jpg",
+          "caption": "Project data sheet for the main alteration package."
+        },
+        {
+          "src": "images/previews/merchants-loft-alterations-c8707-preview-2.jpg",
+          "caption": "Representative internal page from the alteration calculations."
+        },
+        {
+          "src": "images/previews/merchants-loft-alterations-c8707-preview-3.jpg",
+          "caption": "Project data sheet for the temporary works propping package."
+        }
+      ],
+      "documents": [
+        {
+          "key": "main-pack",
+          "label": "Calculations 01-24",
+          "summary": "Main structural calculation pack for the internal alteration works.",
+          "file_name": "C8707. Calculations 01 - 24 inc_compressed.pdf",
+          "url": "pdfs/source/C8707.%20Calculations%2001%20-%2024%20inc_compressed.pdf",
+          "page_count": 25,
+          "source_origin": "attachments (3).zip",
+          "aliases": []
+        },
+        {
+          "key": "t-pack",
+          "label": "Calcs T01-T08",
+          "summary": "Temporary works propping calculations issued for the same project.",
+          "file_name": "C8707.  Calcs . T01 - T08 inc.pdf",
+          "url": "pdfs/source/C8707.%20%20Calcs%20.%20T01%20-%20T08%20inc.pdf",
+          "page_count": 9,
+          "source_origin": "attachments (3).zip",
+          "aliases": []
+        }
+      ],
+      "file_total": 2
+    },
+    {
+      "id": "monitoring-coursework",
+      "slug": "deformation-monitoring-coursework",
+      "title": "Deformation Monitoring Coursework",
+      "subtitle": "Surveying coursework for monitoring a museum during adjacent tunnelling",
+      "category": "Academic",
+      "discipline": "Surveying",
+      "work_stream": "Academic Work",
+      "reference": "AR10368",
+      "authorship": "Individual coursework submission",
+      "source_batch": "attachments (4).zip",
+      "tags": [
+        "Academic",
+        "Surveying",
+        "Monitoring"
+      ],
+      "summary": "University of Bath surveying coursework focused on deformation monitoring for the Holburne Museum during proposed tunnelling works.",
+      "role": "Individual coursework submission covering monitoring strategy, survey control, and movement assessment for a tunnelling scenario.",
+      "scope": [
+        "Monitoring requirements for a building affected by nearby tunnelling.",
+        "Survey control, observations, and movement tracking considerations.",
+        "Technical coursework presentation for a civil engineering surveying module."
+      ],
+      "deliverables": [
+        "Coursework report setting out the monitoring approach.",
+        "Supporting technical discussion of control, observations, and movement assessment.",
+        "Preview pages and in-browser access to the full submission."
+      ],
+      "thumbnail": "images/thumbnails/deformation-monitoring-coursework-thumb.jpg",
+      "previews": [
+        {
+          "src": "images/previews/deformation-monitoring-coursework-preview-1.jpg",
+          "caption": "Coursework cover page and brief."
+        },
+        {
+          "src": "images/previews/deformation-monitoring-coursework-preview-2.jpg",
+          "caption": "Monitoring strategy content from the submission."
+        }
+      ],
+      "documents": [
+        {
+          "key": "monitoring-pdf",
+          "label": "219326201_Monitoring.pdf",
+          "summary": "Coursework report covering deformation monitoring for a tunnelling scenario.",
+          "file_name": "219326201_Monitoring.pdf",
+          "url": "pdfs/source/219326201_Monitoring.pdf",
+          "page_count": 3,
+          "source_origin": "attachments (4).zip",
+          "aliases": []
+        }
+      ],
+      "file_total": 1
+    },
+    {
+      "id": "timber-masonry-coursework",
+      "slug": "timber-masonry-coursework",
+      "title": "Timber and Masonry Coursework",
+      "subtitle": "Structural design and construction coursework",
+      "category": "Academic",
+      "discipline": "Structural Design",
+      "work_stream": "Academic Work",
+      "reference": "AR20442",
+      "authorship": "Individual coursework submission",
+      "source_batch": "attachments (4).zip",
+      "tags": [
+        "Academic",
+        "Structural",
+        "Timber",
+        "Masonry"
+      ],
+      "summary": "University coursework submitted under AR20442: Structural Design and Construction, covering timber and masonry design in a longer-form technical submission.",
+      "role": "Individual coursework submission covering structural design calculations, detailing considerations, and technical presentation.",
+      "scope": [
+        "Timber and masonry structural design coursework.",
+        "Extended report format covering the full design submission.",
+        "Academic presentation of design calculations and supporting notes."
+      ],
+      "deliverables": [
+        "Merged coursework report covering the design submission.",
+        "Supporting calculation pages and technical narrative.",
+        "Preview pages and in-browser access to the full report."
+      ],
+      "thumbnail": "images/thumbnails/timber-masonry-coursework-thumb.jpg",
+      "previews": [
+        {
+          "src": "images/previews/timber-masonry-coursework-preview-1.jpg",
+          "caption": "Coursework cover page."
+        },
+        {
+          "src": "images/previews/timber-masonry-coursework-preview-2.jpg",
+          "caption": "Opening coursework content page."
+        },
+        {
+          "src": "images/previews/timber-masonry-coursework-preview-3.jpg",
+          "caption": "Representative internal page from the submission."
+        }
+      ],
+      "documents": [
+        {
+          "key": "timber-masonry-pdf",
+          "label": "courseowk timber _merged.pdf",
+          "summary": "Coursework report covering timber and masonry design.",
+          "file_name": "courseowk timber _merged.pdf",
+          "url": "pdfs/source/courseowk%20timber%20_merged.pdf",
+          "page_count": 30,
+          "source_origin": "attachments (4).zip",
+          "aliases": []
+        }
+      ],
+      "file_total": 1
+    },
+    {
+      "id": "lc3-report",
+      "slug": "lc3-technical-report",
+      "title": "LC3 Technical Report",
+      "subtitle": "Assessment of limestone calcined clay cement for low-carbon concrete construction",
+      "category": "Academic",
+      "discipline": "Materials / Concrete",
+      "work_stream": "Academic Work",
+      "reference": "LC3 report",
+      "authorship": "Individual technical report",
+      "source_batch": "uniwork.zip",
+      "tags": [
+        "Academic",
+        "Materials",
+        "Concrete",
+        "Sustainability"
+      ],
+      "summary": "Technical report assessing LC3, its raw materials, production process, hydration behaviour, and use in lower-carbon concrete construction.",
+      "role": "Individual technical report assessing LC3 as a lower-carbon concrete material.",
+      "scope": [
+        "Materials assessment focused on LC3 as a lower-carbon cement system.",
+        "Review of production, hydration, and construction implications.",
+        "Structured technical report covering materials behaviour and construction implications."
+      ],
+      "deliverables": [
+        "Technical report on LC3 and its application in lower-carbon concrete construction.",
+        "Review of raw materials, production, hydration, and construction implications.",
+        "Preview pages and in-browser access to the full report."
+      ],
+      "thumbnail": "images/thumbnails/lc3-technical-report-thumb.jpg",
+      "previews": [
+        {
+          "src": "images/previews/lc3-technical-report-preview-1.jpg",
+          "caption": "Report cover page."
+        },
+        {
+          "src": "images/previews/lc3-technical-report-preview-2.jpg",
+          "caption": "Opening technical content page."
+        },
+        {
+          "src": "images/previews/lc3-technical-report-preview-3.jpg",
+          "caption": "Representative internal page from the report."
+        }
+      ],
+      "documents": [
+        {
+          "key": "lc3-pdf",
+          "label": "DH_LC3_COURSEWORK.pdf",
+          "summary": "Technical report assessing LC3 for lower-carbon concrete construction.",
+          "file_name": "DH_LC3_COURSEWORK.pdf",
+          "url": "pdfs/source/DH_LC3_COURSEWORK.pdf",
+          "page_count": 12,
+          "source_origin": "uniwork.zip",
+          "aliases": []
+        }
+      ],
+      "file_total": 1
+    },
+    {
+      "id": "the-sty",
+      "slug": "the-sty-group-6",
+      "title": "The Sty",
+      "subtitle": "Group 6 structural scheme submission for a pool and Pilates building",
+      "category": "Academic",
+      "discipline": "Structural Design",
+      "work_stream": "Academic Work",
+      "reference": "Group 6",
+      "authorship": "Group submission",
+      "source_batch": "uniwork.zip",
+      "tags": [
+        "Academic",
+        "Structural",
+        "Timber",
+        "Group Work"
+      ],
+      "summary": "Group 6 submission for a proposed pool and Pilates building. The opening pages set out the site context, concept, and structural scheme, including curved timber beams and CLT floor elements.",
+      "role": "Group design submission with Daniel contributing to the engineering development and technical presentation of the scheme.",
+      "scope": [
+        "Structural scheme development for a building proposal in the New Forest.",
+        "Concept and structural overview pages covering long-span timber elements.",
+        "Group structural design submission combining concept development, structural framing, and presentation material."
+      ],
+      "deliverables": [
+        "Group design submission for the proposed pool and Pilates building.",
+        "Structural overview pages and supporting concept material.",
+        "Preview pages and in-browser access to the full submission."
+      ],
+      "thumbnail": "images/thumbnails/the-sty-group-6-thumb.jpg",
+      "previews": [
+        {
+          "src": "images/previews/the-sty-group-6-preview-1.jpg",
+          "caption": "Title page."
+        },
+        {
+          "src": "images/previews/the-sty-group-6-preview-2.jpg",
+          "caption": "Site location and architectural scheme page."
+        },
+        {
+          "src": "images/previews/the-sty-group-6-preview-3.jpg",
+          "caption": "Structural overview page."
+        }
+      ],
+      "documents": [
+        {
+          "key": "the-sty-pdf",
+          "label": "Final submission v4.pdf",
+          "summary": "Group 6 submission covering the structural scheme for a pool and Pilates building.",
+          "file_name": "Final submission v4.pdf",
+          "url": "pdfs/source/Final%20submission%20v4.pdf",
+          "page_count": 19,
+          "source_origin": "uniwork.zip",
+          "aliases": []
+        }
+      ],
+      "file_total": 1
+    },
+    {
+      "id": "aula-magna",
+      "slug": "aula-magna-engineers-report",
+      "title": "Aula Magna Engineers' Report",
+      "subtitle": "Group 6 report for a regenerative peace-centre proposal",
+      "category": "Academic",
+      "discipline": "Structural / Environmental Design",
+      "work_stream": "Academic Work",
+      "reference": "Group 6",
+      "authorship": "Group report",
+      "source_batch": "uniwork.zip",
+      "tags": [
+        "Academic",
+        "Structural",
+        "Sustainability",
+        "Group Work"
+      ],
+      "summary": "Group 6 engineers' report for the Aula Magna proposal, with emphasis on regenerative design, low-carbon strategies, and the design development process.",
+      "role": "Group engineers' report with Daniel contributing to the engineering narrative and technical presentation of the proposal.",
+      "scope": [
+        "Engineering report for a concept-led building proposal.",
+        "Sustainability and environmental strategy content.",
+        "Design progression and engineering narrative within a group report."
+      ],
+      "deliverables": [
+        "Group engineers' report for the Aula Magna proposal.",
+        "Engineering narrative, design progression, and supporting report material.",
+        "Preview pages and in-browser access to the full report."
+      ],
+      "thumbnail": "images/thumbnails/aula-magna-engineers-report-thumb.jpg",
+      "previews": [
+        {
+          "src": "images/previews/aula-magna-engineers-report-preview-1.jpg",
+          "caption": "Report cover page."
+        },
+        {
+          "src": "images/previews/aula-magna-engineers-report-preview-2.jpg",
+          "caption": "Opening project summary page."
+        },
+        {
+          "src": "images/previews/aula-magna-engineers-report-preview-3.jpg",
+          "caption": "Design progression page."
+        }
+      ],
+      "documents": [
+        {
+          "key": "aula-magna-pdf",
+          "label": "Group-06_Engineers_Report_25.pdf",
+          "summary": "Group engineers' report for the Aula Magna proposal.",
+          "file_name": "Group-06_Engineers_Report_25.pdf",
+          "url": "pdfs/source/Group-06_Engineers_Report_25.pdf",
+          "page_count": 15,
+          "source_origin": "uniwork.zip",
+          "aliases": []
+        }
+      ],
+      "file_total": 1
+    },
+    {
+      "id": "geotechnical-design",
+      "slug": "geotechnical-design-group-3",
+      "title": "Geotechnical Design Technical Report",
+      "subtitle": "Aquae Sulis Music Venue foundation design study",
+      "category": "Academic",
+      "discipline": "Geotechnical Design",
+      "work_stream": "Academic Work",
+      "reference": "AR20478",
+      "authorship": "Group technical report",
+      "source_batch": "uniwork.zip",
+      "tags": [
+        "Academic",
+        "Geotechnical",
+        "Foundations",
+        "Group Work"
+      ],
+      "summary": "Group technical report examining ground conditions, foundation options, and geotechnical design considerations for the Aquae Sulis Music Venue.",
+      "role": "Group technical report with Daniel contributing to foundation strategy development, geotechnical assessment, and report presentation.",
+      "scope": [
+        "Foundation strategy and soil-mechanics study for the Aquae Sulis Music Venue project.",
+        "Assessment of ground conditions, design parameters, and foundation approach.",
+        "Technical report presenting the geotechnical basis of design."
+      ],
+      "deliverables": [
+        "Geotechnical design report covering site assumptions, ground profile, and foundation recommendations.",
+        "Supporting foundation-design narrative and technical presentation.",
+        "Preview pages and in-browser access to the full report."
+      ],
+      "thumbnail": "images/thumbnails/geotechnical-design-group-3-thumb.jpg",
+      "previews": [
+        {
+          "src": "images/previews/geotechnical-design-group-3-preview-1.jpg",
+          "caption": "Report cover page."
+        },
+        {
+          "src": "images/previews/geotechnical-design-group-3-preview-2.jpg",
+          "caption": "Opening technical content page."
+        },
+        {
+          "src": "images/previews/geotechnical-design-group-3-preview-3.jpg",
+          "caption": "Representative internal page from the report."
+        }
+      ],
+      "documents": [
+        {
+          "key": "geotechnical-pdf",
+          "label": "Geotechnical Design - Group 3.pdf",
+          "summary": "Geotechnical design report for the Aquae Sulis Music Venue foundation study.",
+          "file_name": "Geotechnical Design - Group 3.pdf",
+          "url": "pdfs/source/Geotechnical%20Design%20-%20Group%203.pdf",
+          "page_count": 18,
+          "source_origin": "uniwork.zip",
+          "aliases": []
+        }
+      ],
+      "file_total": 1
+    },
+    {
+      "id": "gfrp-footbridge-fea",
+      "slug": "gfrp-footbridge-fea",
+      "title": "GFRP Footbridge FEA",
+      "subtitle": "Group 4 finite element analysis brief",
+      "category": "Academic",
+      "discipline": "Structural Analysis",
+      "work_stream": "Academic Work",
+      "reference": "AR30400 Group 4",
+      "authorship": "Group submission",
+      "source_batch": "uniwork.zip",
+      "tags": [
+        "Academic",
+        "Structural",
+        "FEA",
+        "Group Work"
+      ],
+      "summary": "Group finite element analysis brief assessing the structural behaviour of a GFRP footbridge concept.",
+      "role": "Group FEA submission with Daniel contributing to modelling assumptions, results interpretation, and technical presentation.",
+      "scope": [
+        "Finite element analysis of a GFRP footbridge concept.",
+        "Assessment of structural response using a concise analysis brief.",
+        "Group submission combining modelling output and engineering commentary."
+      ],
+      "deliverables": [
+        "Group finite element analysis brief for the footbridge study.",
+        "Supporting structural response discussion and presentation of results.",
+        "Preview pages and in-browser access to the full submission."
+      ],
+      "thumbnail": "images/thumbnails/gfrp-footbridge-fea-thumb.jpg",
+      "previews": [
+        {
+          "src": "images/previews/gfrp-footbridge-fea-preview-1.jpg",
+          "caption": "Report cover page."
+        },
+        {
+          "src": "images/previews/gfrp-footbridge-fea-preview-2.jpg",
+          "caption": "Opening analysis content page."
+        }
+      ],
+      "documents": [
+        {
+          "key": "fea-pdf",
+          "label": "Group_4_FEA2024.pdf",
+          "summary": "Group finite element analysis brief for the GFRP footbridge concept.",
+          "file_name": "Group_4_FEA2024.pdf",
+          "url": "pdfs/source/Group_4_FEA2024.pdf",
+          "page_count": 7,
+          "source_origin": "uniwork.zip",
+          "aliases": []
+        }
+      ],
+      "file_total": 1
+    },
+    {
+      "id": "office-loading-dissertation",
+      "slug": "office-loading-dissertation",
+      "title": "Analysing Peak Loading Conditions in Office Environments",
+      "subtitle": "MEng dissertation",
+      "category": "Academic",
+      "discipline": "Research",
+      "work_stream": "Academic Work",
+      "reference": "AR30315",
+      "authorship": "Individual dissertation",
+      "source_batch": "uniwork.zip",
+      "tags": [
+        "Academic",
+        "Research",
+        "Dissertation"
+      ],
+      "summary": "MEng dissertation investigating peak loading conditions in office environments, with emphasis on occupancy loading behaviour and design implications.",
+      "role": "Individual dissertation investigating peak loading conditions in office environments.",
+      "scope": [
+        "Research project examining peak loading conditions in office environments.",
+        "Extended dissertation covering literature review, methodology, and findings.",
+        "Technical discussion of loading behaviour and implications for design assumptions."
+      ],
+      "deliverables": [
+        "Full dissertation document for the office-loading research study.",
+        "Supporting research narrative, methodology, and technical discussion.",
+        "Preview pages and in-browser access to the full dissertation."
+      ],
+      "thumbnail": "images/thumbnails/office-loading-dissertation-thumb.jpg",
+      "previews": [
+        {
+          "src": "images/previews/office-loading-dissertation-preview-1.jpg",
+          "caption": "Dissertation title page."
+        },
+        {
+          "src": "images/previews/office-loading-dissertation-preview-2.jpg",
+          "caption": "Opening dissertation content page."
+        },
+        {
+          "src": "images/previews/office-loading-dissertation-preview-3.jpg",
+          "caption": "Representative internal page from the dissertation."
+        }
+      ],
+      "documents": [
+        {
+          "key": "dissertation-pdf",
+          "label": "Heard_D_diss_2024-25.pdf",
+          "summary": "MEng dissertation on peak loading conditions in office environments.",
+          "file_name": "Heard_D_diss_2024-25.pdf",
+          "url": "pdfs/source/Heard_D_diss_2024-25.pdf",
+          "page_count": 40,
+          "source_origin": "uniwork.zip",
+          "aliases": []
+        }
+      ],
+      "file_total": 1
+    },
+    {
+      "id": "glastonbury-reservoir",
+      "slug": "glastonbury-reservoir-proposal",
+      "title": "Glastonbury Reservoir Proposal",
+      "subtitle": "Group 7 infrastructure report",
+      "category": "Academic",
+      "discipline": "Water / Infrastructure",
+      "work_stream": "Academic Work",
+      "reference": "Group 7",
+      "authorship": "Group report",
+      "source_batch": "uniwork.zip",
+      "tags": [
+        "Academic",
+        "Infrastructure",
+        "Water",
+        "Group Work"
+      ],
+      "summary": "Group 7 report for a reservoir proposal, combining water-resilience, environmental, and infrastructure themes in a long-form academic submission.",
+      "role": "Group infrastructure report with Daniel contributing to the engineering narrative and report presentation.",
+      "scope": [
+        "Reservoir proposal and wider water-resilience narrative.",
+        "Infrastructure report format with environmental and strategic framing.",
+        "Group infrastructure report combining engineering, environmental, and strategic planning material."
+      ],
+      "deliverables": [
+        "Group infrastructure report for the reservoir proposal.",
+        "Supporting environmental and strategic engineering narrative.",
+        "Preview pages and in-browser access to the full report."
+      ],
+      "thumbnail": "images/thumbnails/glastonbury-reservoir-proposal-thumb.jpg",
+      "previews": [
+        {
+          "src": "images/previews/glastonbury-reservoir-proposal-preview-1.jpg",
+          "caption": "Report cover page."
+        },
+        {
+          "src": "images/previews/glastonbury-reservoir-proposal-preview-2.jpg",
+          "caption": "Acknowledgements and report framing."
+        },
+        {
+          "src": "images/previews/glastonbury-reservoir-proposal-preview-3.jpg",
+          "caption": "Opening introduction page."
+        }
+      ],
+      "documents": [
+        {
+          "key": "reservoir-pdf",
+          "label": "Report_Group_7 (1).pdf",
+          "summary": "Group infrastructure report for the Glastonbury Reservoir proposal.",
+          "file_name": "Report_Group_7 (1).pdf",
+          "url": "pdfs/source/Report_Group_7%20(1).pdf",
+          "page_count": 36,
+          "source_origin": "uniwork.zip",
+          "aliases": []
+        }
+      ],
+      "file_total": 1
+    },
+    {
+      "id": "advanced-timber-connection-design",
+      "slug": "advanced-timber-connection-design",
+      "title": "Advanced Timber Engineering: Connection Design",
+      "subtitle": "Connection design coursework",
+      "category": "Academic",
+      "discipline": "Timber Engineering",
+      "work_stream": "Academic Work",
+      "reference": "AR40418",
+      "authorship": "Individual coursework submission",
+      "source_batch": "uniwork.zip",
+      "tags": [
+        "Academic",
+        "Timber",
+        "Connection Design"
+      ],
+      "summary": "Advanced timber engineering coursework covering the design and presentation of timber connection details.",
+      "role": "Individual coursework submission focused on timber connection design and technical presentation.",
+      "scope": [
+        "Timber connection design exercise for an advanced timber engineering module.",
+        "Connection detailing and supporting calculations presented in report form.",
+        "Technical submission combining design checks and clear engineering presentation."
+      ],
+      "deliverables": [
+        "Timber connection design coursework submission.",
+        "Supporting technical pages covering the connection design exercise.",
+        "Preview pages and in-browser access to the full submission."
+      ],
+      "thumbnail": "images/thumbnails/advanced-timber-connection-design-thumb.jpg",
+      "previews": [
+        {
+          "src": "images/previews/advanced-timber-connection-design-preview-1.jpg",
+          "caption": "Coursework cover page."
+        },
+        {
+          "src": "images/previews/advanced-timber-connection-design-preview-2.jpg",
+          "caption": "Opening coursework content page."
+        },
+        {
+          "src": "images/previews/advanced-timber-connection-design-preview-3.jpg",
+          "caption": "Representative internal page from the submission."
+        }
+      ],
+      "documents": [
+        {
+          "key": "advanced-timber-pdf",
+          "label": "TIMBER_CW_PDF.pdf",
+          "summary": "Advanced timber engineering coursework covering timber connection design.",
+          "file_name": "TIMBER_CW_PDF.pdf",
+          "url": "pdfs/source/TIMBER_CW_PDF.pdf",
+          "page_count": 14,
+          "source_origin": "uniwork.zip",
+          "aliases": []
+        }
+      ],
+      "file_total": 1
+    }
+  ],
+  "supplementary_files": [
+    {
+      "title": "Structures Coursework Spreadsheet",
+      "summary": "Spreadsheet submitted alongside the structures coursework set.",
+      "file_name": "Structures_CW .xlsx",
+      "url": "files/source/Structures_CW%20.xlsx",
+      "file_type": "xlsx",
+      "work_stream": "Academic Work",
+      "source_batch": "uniwork.zip"
+    }
+  ],
+  "archives": [
+    {
+      "title": "Professional Document Bundle 01",
+      "summary": "Archive containing additional professional calculation packs and supporting PDFs.",
+      "file_name": "attachments.zip",
+      "url": "files/source/attachments.zip",
+      "file_type": "zip"
+    },
+    {
+      "title": "Professional Document Bundle 02",
+      "summary": "Archive containing additional professional proposal and calculation packs.",
+      "file_name": "attachments (1).zip",
+      "url": "files/source/attachments%20(1).zip",
+      "file_type": "zip"
+    },
+    {
+      "title": "Professional Document Bundle 03",
+      "summary": "Archive containing the grouped C8829 temporary works packages.",
+      "file_name": "attachments (2).zip",
+      "url": "files/source/attachments%20(2).zip",
+      "file_type": "zip"
+    },
+    {
+      "title": "Professional Document Bundle 04",
+      "summary": "Archive containing the C8758 and C8707 professional calculation packs.",
+      "file_name": "attachments (3).zip",
+      "url": "files/source/attachments%20(3).zip",
+      "file_type": "zip"
+    },
+    {
+      "title": "Academic Document Bundle 01",
+      "summary": "Archive containing academic coursework submissions.",
+      "file_name": "attachments (4).zip",
+      "url": "files/source/attachments%20(4).zip",
+      "file_type": "zip"
+    },
+    {
+      "title": "Academic Document Bundle 02",
+      "summary": "Archive containing university reports, coursework, and dissertation material.",
+      "file_name": "uniwork.zip",
+      "url": "files/source/uniwork.zip",
+      "file_type": "zip"
+    }
+  ]
+}

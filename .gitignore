@@ -1,0 +1,21 @@
+# Node / localtunnel
+node_modules/
+localtunnel.pid
+localtunnel.log
+localtunnel.err
+package-lock.json
+package.json
+
+# Python scripts (keep the scripts folder but not cache)
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*.swp
